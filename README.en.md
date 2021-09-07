@@ -26,3 +26,4 @@ Operating system network-related library for Node.js is used to obtain hardware 
 
 - [electron-pdf-window](https://github.com/electron-modules/electron-pdf-window) view PDF files in electron browser windows
 - [electron-json-storage](https://github.com/electron-modules/electron-json-storage) Easily write and read user settings in Electron apps
+- [rimraf-alt](https://github.com/electron-modules/rimraf-alt) A `rm -rf` util for Node.js in Electron

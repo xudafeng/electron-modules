@@ -46,3 +46,4 @@ network-interface 为 Electron 提供操作系统级的网络变更感知能力�
 
 - [electron-pdf-window](https://github.com/electron-modules/electron-pdf-window) 提供 PDF 文件的解析预览
 - [electron-json-storage](https://github.com/electron-modules/electron-json-storage) 提供 JSON 格式文件写入磁盘
+- [rimraf-alt](https://github.com/electron-modules/rimraf-alt) 提供稳定的 `rm -rf`
