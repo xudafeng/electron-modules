@@ -44,6 +44,7 @@ network-interface 为 Electron 提供操作系统级的网络变更感知能力�
 
 > fork 原仓库，已修复并长期维护
 
-- [electron-pdf-window](https://github.com/electron-modules/electron-pdf-window) 提供 PDF 文件的解析预览
-- [electron-json-storage](https://github.com/electron-modules/electron-json-storage) 提供 JSON 格式文件写入磁盘
+- [electron-pdf-window-alt](https://github.com/electron-modules/electron-pdf-window-alt) 提供 PDF 文件的解析预览
+- [electron-json-storage-alt](https://github.com/electron-modules/electron-json-storage-alt) 提供 JSON 格式文件写入磁盘
 - [rimraf-alt](https://github.com/electron-modules/rimraf-alt) 提供稳定的 `rm -rf`
+- [sudo-prompt-alt](https://github.com/electron-modules/sudo-prompt-alt) 系统权限提示

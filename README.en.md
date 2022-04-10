@@ -24,6 +24,7 @@ Operating system network-related library for Node.js is used to obtain hardware 
 
 ## List of others
 
-- [electron-pdf-window](https://github.com/electron-modules/electron-pdf-window) view PDF files in electron browser windows
-- [electron-json-storage](https://github.com/electron-modules/electron-json-storage) Easily write and read user settings in Electron apps
+- [electron-pdf-window-alt](https://github.com/electron-modules/electron-pdf-window-alt) view PDF files in electron browser windows
+- [electron-json-storage-alt](https://github.com/electron-modules/electron-json-storage-alt) Easily write and read user settings in Electron apps
 - [rimraf-alt](https://github.com/electron-modules/rimraf-alt) A `rm -rf` util for Node.js in Electron
+- [sudo-prompt-alt](https://github.com/electron-modules/sudo-prompt-alt) Run a non-graphical terminal command using `sudo`.
