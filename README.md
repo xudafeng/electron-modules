@@ -21,7 +21,7 @@ electron-windows 提供 Electron 应用的多窗口管理功能和一些实用�
 electrom 是 Electron 应用的资源管理器，集成系统资源预览，性能排查等功能。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/electron-modules/electrom/master/demo.png" width="740px">
+  <img src="https://raw.githubusercontent.com/electron-modules/electrom/master/demo.gif" width="740px">
 </p>
 
 ### [electron-webview-schedule](https://github.com/electron-modules/electron-webview-schedule)
