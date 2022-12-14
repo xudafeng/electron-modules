@@ -40,6 +40,14 @@ network-interface 为 Electron 提供操作系统级的网络变更感知能力�
   <img src="https://raw.githubusercontent.com/electron-modules/network-interface/master/images/demo.gif" width="740px">
 </p>
 
+### [electron-windows-titlebar](https://github.com/electron-modules/electron-windows-titlebar)
+
+为 Electron 提供 Windows 系统风格的标题栏，原生实现，不侵入 Web 内部。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/electron-modules/electron-windows-titlebar/main/addon-demo.gif" width="740px">
+</p>
+
 ## 其他
 
 > fork 原仓库，已修复并长期维护

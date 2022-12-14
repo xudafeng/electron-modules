@@ -22,6 +22,14 @@ Webview scheduling management module supporting asynchronous queue for Electron.
 
 Operating system network-related library for Node.js is used to obtain hardware status and network environment changes, etc.
 
+### [electron-windows-titlebar](https://github.com/electron-modules/electron-windows-titlebar)
+
+windows-style title bar component for Electron.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/electron-modules/electron-windows-titlebar/main/addon-demo.gif" width="740px">
+</p>
+
 ## List of others
 
 - [electron-pdf-window-alt](https://github.com/electron-modules/electron-pdf-window-alt) view PDF files in electron browser windows
