@@ -30,6 +30,10 @@ windows-style title bar component for Electron.
   <img src="https://raw.githubusercontent.com/electron-modules/electron-windows-titlebar/main/addon-demo.gif" width="740px">
 </p>
 
+### [graceful-updater](https://github.com/electron-modules/graceful-updater)
+
+Electron updater.
+
 ## List of others
 
 - [electron-pdf-window-alt](https://github.com/electron-modules/electron-pdf-window-alt) view PDF files in electron browser windows

@@ -48,6 +48,10 @@ network-interface 为 Electron 提供操作系统级的网络变更感知能力�
   <img src="https://raw.githubusercontent.com/electron-modules/electron-windows-titlebar/main/addon-demo.gif" width="740px">
 </p>
 
+### [graceful-updater](https://github.com/electron-modules/graceful-updater)
+
+为 Electron 提供升级功能。
+
 ## 其他
 
 > fork 原仓库，已修复并长期维护
